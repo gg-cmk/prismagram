@@ -4,7 +4,7 @@ Instagram Clone
 
 ## User Stories
 
-- [ ] See the feed
+- [X] See the feed
 - [X] Like / Unlike a photo
 - [X] Comment on a photo
 - [X] Search by user
@@ -15,9 +15,9 @@ Instagram Clone
 - [X] See the Full Photo
 - [X] Edit my profile
 - [X] Create account
-- [ ] Log in
-- [ ] Upload Photos
-- [ ] Edit the photo (Delete)
-- [ ] See the Feed
+- [X] Log in
+- [X] Upload Photos
+- [X] Edit the photo (Delete)
+- [X] See the Feed
 - [X] request Secret
 - [X] Confirm Secret 
